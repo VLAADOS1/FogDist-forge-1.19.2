@@ -40,4 +40,4 @@
 ## Контакты
 
 - Если у вас возникли вопросы или проблемы, откройте issue на [GitHub Issues](https://github.com/VLAADOS1/FogDist-forge-1.19.2/issues).
-- Или напишите в Discord @vlaados | (предпочтительный способ связи).
+- Или напишите в Discord ** @vlaados ** | (предпочтительный способ связи).
